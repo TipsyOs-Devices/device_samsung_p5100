@@ -1,12 +1,12 @@
 [
-    {
+   {
         "repository": "SlimRoms/kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
         "branch": "lp5.1"
     },
     {
-        "repository": "SlimRoms/device_samsung_p5110",
-        "target_path": "device/samsung/p5110",
+        "repository": "SlimRoms/device_samsung_p3100",
+        "target_path": "device/samsung/p3100",
         "branch": "lp5.1"
     },
     {
@@ -18,5 +18,10 @@
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "lp5.1"
+    },
+    {
+        "repository": "TheLoonyBin/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch":   "lp5.1"
     }
 ]
